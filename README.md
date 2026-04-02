@@ -1,15 +1,13 @@
 <div align="center">
-
 ### 🍃 此间程序员，亦是人间客
 ### Hi there 👋 I'm c-poet
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=9370DB&background=FFFFFF00&center=true&vCenter=true&width=700&lines=以代码写诗·以架构作画;深耕Java后端·精通Spring;全栈开发客" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=9370DB&background=FFFFFF00&center=true&vCenter=true&width=700&lines=以代码写诗·以架构作画;深耕Java后端·精通Spring;全栈开发者·优雅代码践行者" />
 </div>
 
 ---
 <div align="center">
 <p>执笔写逻辑，俯首观星河</p>
-<p>代码藏风雅，亦是少年歌 🌙</p>
+<p>代码藏风雅，亦是少年歌</p>
 </div>
 
 ### 👨‍💻 关于我
@@ -49,5 +47,3 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=c-poet&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
-
----
