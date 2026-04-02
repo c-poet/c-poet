@@ -39,10 +39,6 @@
 ### 📊 GitHub 数据统计
 
 <div align="center">
-<img width="48%" src="https://edge-readme-stats.dancodes.online/stats?username=c-poet&theme=light&hide_border=true&show_icons=true" alt="c-poet's GitHub stats" />
 <img width="48%" src="https://edge-readme-stats.dancodes.online/langs?username=c-poet&theme=light&hide_border=true&layout=compact" alt="Top Langs" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=c-poet&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+<img width="48%" src="https://edge-readme-stats.dancodes.online/stats?username=c-poet&theme=light&hide_border=true&show_icons=true" alt="c-poet's GitHub stats" />
 </div>
