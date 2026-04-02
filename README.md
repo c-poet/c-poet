@@ -38,8 +38,8 @@
 
 ### 📊 GitHub 数据统计
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=c-poet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="c-poet's GitHub stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-poet&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Langs" />
+<img width="48%" src="https://edge-readme-stats.dancodes.online/stats?username=c-poet&theme=tokyonight&hide_border=true&show_icons=true" alt="c-poet's GitHub stats" />
+<img width="48%" src="https://edge-readme-stats.dancodes.online/top-langs?username=c-poet&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" />
 </div>
 
 <div align="center">
