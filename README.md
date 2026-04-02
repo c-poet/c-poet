@@ -2,16 +2,14 @@
 
 ### 🍃 此间程序员，亦是人间客
 ### Hi there 👋 I'm c-poet
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=9370DB&background=FFFFFF00&center=true&vCenter=true&width=700&lines=以代码写诗·以架构作画;深耕Java后端·熟稔Linux运维;玩转SpringAI&LangChain;Python赋能效率·Shell脚本筑根基" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=9370DB&background=FFFFFF00&center=true&vCenter=true&width=700&lines=以代码写诗·以架构作画;深耕Java后端·精通Spring;全栈开发客" />
 
 </div>
 
 ---
 <div align="center">
-
-> 执笔写逻辑，俯首观星河
-> 代码藏风雅，亦是少年歌 🌙
-
+<p>执笔写逻辑，俯首观星河</p>
+<p>代码藏风雅，亦是少年歌 🌙</p>
 </div>
 
 ### 👨‍💻 关于我
@@ -53,8 +51,3 @@
 </div>
 
 ---
-
-### ✨ 结语
-山河落笔皆诗意，代码成行亦风华
-
-欢迎交流 Java 后端、微服务架构、Spring AI & LangChain、Linux 运维、Shell 脚本、Python 开发相关技术，共同成长～
